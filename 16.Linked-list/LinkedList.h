@@ -9,7 +9,7 @@ typedef struct {
   enum {
     NEW,
     STARTED,
-    FINISHED,
+    FINISHED
   } status;
 } ListType;
 
